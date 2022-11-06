@@ -52,13 +52,13 @@
 
 <p> </p>
 
-##### Τα παρακάτω Link αντιστοιχούν στα παραδοτέα του Α1
+#### Τα παρακάτω Link αντιστοιχούν στα παραδοτέα του Α1
 
 <ul>
   <li><strong>Προσωπικό site στο netlify:</strong> Gkirikos</li>
 </ul>
 
-##### Pull requests: 
+#### Pull requests: 
 
 <ol>
   <li>-</li>
