@@ -69,18 +69,7 @@ AM: inf2021112
 <p>Ο υπολογιστής Apollo Guidance Computer (AGC) είναι ένας ψηφιακός υπολογιστής που δημιουργήθηκε για το Apollo program και παρέιχε υπολογιστικά προγράμματα, ηλεκτρονικές διεπαφές, πλοήγηση αλλά και τον ολικό έλεγχο στο Apollo Lunar Module, δηλαδή στο σκάφος που στάλθηκε στο φεγγάρι.
 </p>
 
-#### Τα παρακάτω Link αντιστοιχούν στα παραδοτέα του Α1
 
-<ul>
-  <li><strong>Προσωπικό site στο netlify:</strong> Gkirikos</li>
-</ul>
-
-#### Pull requests: 
-
-<ol>
-  <li>-</li>
-  <li>-</li>
-</ol>
 
 # 4o Παραδοτέο: Warm Ups Command Line Interface
 
