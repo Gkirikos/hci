@@ -8,7 +8,7 @@
 
 <p><strong>Όνομα ομάδας</strong>: OMADA12
 </p>
-<p><strong>Link της ομάδας στο Github</strong>: [OMADA12](https://github.com/OMADA12)
+<p><strong>Link της ομάδας στο Github</strong>: <a href="https://github.com/OMADA12">OMADA12</a>
 </p>
 
 # Επικοινωνία Ανθρώπου-Υπολογιστή
