@@ -65,6 +65,7 @@ AM: inf2021112
 <p>Link της πρώτης εικόνας στο Netlify:</p>
 <ul>
   <li><a href="https://gkirikos.netlify.app/gallery/color-sensor/">Color Sensor Image</a></li>
+  <li><a href="https://github.com/Gkirikos/_gallery/blob/34d28e50f054acbac889c87349cc835148c600f6/color-sensor.md">Αρχείο md με στοιχεία της εικόνας</a></li>
 </ul>
 
 ![Color Sensor](https://gkirikos.netlify.app/images/color-sensor.jpg "Color Sensor")
@@ -79,6 +80,8 @@ AM: inf2021112
 
 <ul>
   <li><a href="https://gkirikos.netlify.app/gallery/apollo-guidance-computer/">Apollo Guidance Computer</a></li>
+  <li><a href="https://github.com/Gkirikos/_gallery/blob/34d28e50f054acbac889c87349cc835148c600f6/apollo-guidance-computer.md">Αρχείο md με στοιχεία εικόνας</a></li>
+   
 </ul>
 
 ![Apollo Guiadnce Computer](https://gkirikos.netlify.app/images/apollo-guidance-computer.jpg "Apollo Guidance Computer")
