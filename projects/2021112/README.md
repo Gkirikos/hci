@@ -62,11 +62,26 @@ AM: inf2021112
 
 ### Πρώτη εικόνα
 
+<p>Link της πρώτης εικόνας στο Netlify:</p>
+<ul>
+  <li><a href="https://gkirikos.netlify.app/gallery/color-sensor/">Color Sensor Image</a></li>
+</ul>
+
+![Color Sensor](https://gkirikos.netlify.app/images/color-sensor.jpg "Color Sensor")
+
 #### Σύντομη περιγραφή του Σένσορα Χρώματος
 
 <p>Ο σένσορας χρώματος, είναι ένας αισθητήρας που ανιχνεύει χρώματα. Έχει την δυνατότητα να ανιχνέυσει αλλά και να πραγματοποιήσει μετρήσεις σε μία πολύ μεγάλη κλίμακα χρωμάτων. Οι μετρήσεις εξαρτώνται από παραμέτρους όπως πόσο θερμό ή ψυχρό είναι το χρώμα, αλλά και πόσο φως αντανακλά ή απορροφά.</p>
 
 ### Δεύτερη εικόνα
+
+<p>Link της δεύτερης εικόνας στο Netlify:</p>
+
+<ul>
+  <li><a href="https://gkirikos.netlify.app/gallery/apollo-guidance-computer/">Apollo Guidance Computer</a></li>
+</ul>
+
+![Apollo Guiadnce Computer](https://gkirikos.netlify.app/images/apollo-guidance-computer.jpg "Apollo Guidance Computer")
 
 #### Σύντομη Περιγραφή του Apollo Guidance Computer
 
