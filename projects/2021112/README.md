@@ -105,7 +105,20 @@ AM: inf2021112
 
 ### Πρώτη εικόνα
 
+![Color Sensor](https://gkirikos.netlify.app/images/color-sensor.jpg "Color Sensor")
+
 <ul>
   <li><a href="https://gkirikos.netlify.app/gallery/color-sensor/">Link της πρώτης εικόνας στο Netlify</a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://gkirikos.netlify.app//timeline/ylismiko-anoixths-phghs/">Link της εικόνας στο Χρονολόγιο (Timeline)</a></li>
+  <li><a href="https://gkirikos.netlify.app//slides/electronic-detectors/">Link της εικόνας στις Διαφάνειες (Slides)</a></li>
+</ul>
+
+### Δεύτερη εικόνα
+
+![Apollo Guiadnce Computer](https://gkirikos.netlify.app/images/apollo-guidance-computer.jpg "Apollo Guidance Computer")
+
+<ul>
+  <li><a href="https://gkirikos.netlify.app/gallery/apollo-guidance-computer/">Link της δεύτερης εικόνας στο Netlify</a></li>
+  <li><a href="https://gkirikos.netlify.app//timeline/pshfiakoi-ypologistes/">Link της εικόνας στο Χρονολόγιο (Timeline)</a></li>
+  <li><a href="https://gkirikos.netlify.app//slides/synchronized-communication/">Link της εικόνας στις Διαφάνειες (Slides)</a></li>
 </ul>
