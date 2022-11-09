@@ -98,3 +98,14 @@ AM: inf2021112
 # 4o Παραδοτέο: Warm Ups Command Line Interface
 
 <p> </p>
+
+# 5o Παραδοτέο:
+
+<p> </p>
+
+### Πρώτη εικόνα
+
+<ul>
+  <li><a href="https://gkirikos.netlify.app/gallery/color-sensor/">Link της πρώτης εικόνας στο Netlify</a></li>
+  <li><a href=""></a></li>
+</ul>
