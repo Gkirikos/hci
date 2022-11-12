@@ -122,3 +122,10 @@ AM: inf2021112
   <li><a href="https://gkirikos.netlify.app//timeline/pshfiakoi-ypologistes/">Link της εικόνας στο Χρονολόγιο (Timeline)</a></li>
   <li><a href="https://gkirikos.netlify.app//slides/synchronized-communication/">Link της εικόνας στις Διαφάνειες (Slides)</a></li>
 </ul>
+
+### Pull Requests
+
+<ul>
+  <li><a href="https://github.com/OMADA12/_gallery/pull/17">Pull request των md files</a></li>
+  <li><a href="https://github.com/OMADA12/images/pull/14">Pull requests των εικόνων</a></li>
+</ul>
