@@ -19,7 +19,7 @@
 | 2 | Άσκηση γραμμής εντολών (linux install) |Επιτυχής εγκατάσταση Linux Arch [Video Link](https://asciinema.org/a/534376) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[1o Αρχείο md](https://github.com/Gkirikos/Helpful/blob/main/apollo-guidance-computer.md) /[2o Αρχείο md](https://github.com/Gkirikos/Helpful/blob/main/color-sensor.md) / [Εικόνα 1](https://github.com/Gkirikos/Helpful/blob/main/apollo-guidance-computer.jpg) /[Εικόνα 1 thumb](https://github.com/Gkirikos/Helpful/blob/main/apollo-guidance-computer-thumb.png) / [Εικόνα 2](https://github.com/Gkirikos/Helpful/blob/main/color-sensor.jpg) / [Εικόνα 2 thumb](https://github.com/Gkirikos/Helpful/blob/main/color-sensor-thumb.png) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
-| 5 | Συμμετοχικό περιεχόμενο A2 | | |
+| 5 | Συμμετοχικό περιεχόμενο A2 | [5o Παραδοτέο](https://github.com/Gkirikos/hci/blob/2021112/projects/2021112/README.md#5o-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | |
 | 6 | Κατασκευή του βιβλίου Α | | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
@@ -129,3 +129,21 @@ AM: inf2021112
   <li><a href="https://github.com/OMADA12/_gallery/pull/17">Pull request των md files</a></li>
   <li><a href="https://github.com/OMADA12/images/pull/14">Pull requests των εικόνων</a></li>
 </ul>
+
+# 6ο Παραδοτέο: 
+
+<p>Για το έκτο παραδοτέο του μαθήματος, δέχτηκα βοήθεια από την ομάδα μου, καθώς ο συντονιστής (Νίκος Αναγνωστόπουλος), ανέβασε πολύ χρήσιμες οδηγίες. Μπορείτε να δείτε τις οδηγίες <a href="https://github.com/courses-ionio/help/discussions/1597">εδώ</a>.<br>
+Παρακάτω υπάρχουν τα link για το συγκεκριμένο παραδοτέο.</p>
+
+### Link έκτου παραδοτέου:
+
+<ul>
+  <li><a href="">Link του .lua αρχείου μου (φίλτρο)</a></li>
+  <li><a href="">Link του βιβλίου (book.pdf)</a></li>
+  <li><a href="">Link του md αρχείου με την παράγραφό μου</a></li>
+  <li><a href="">Link του screenshot μου (με την παράγραφό μου από το book.pdf)</a></li>
+</ul>
+
+### Η εικόνα (screenshot) με την προσθήκη μου στο βιβίο:
+
+![]( "")
