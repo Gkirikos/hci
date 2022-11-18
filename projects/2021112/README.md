@@ -18,7 +18,7 @@
 | 1 |  [Δημιουργία ομάδας](https://github.com/courses-ionio/hci/discussions/1794) + [Φορκ και δημιουργία σελίδας τελικής αναφοράς](https://courses-ionio.github.io/help/guide/), [προσθήκη πίνακα περιεχομένων](https://raw.githubusercontent.com/courses-ionio/hci/master/README.md), [συγγραφή της εισαγωγής](https://courses-ionio.github.io/help/intro/), αποστολή της εισαγωγής [για σχολιασμό στην συζήτηση](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) και καταγραφή του συνδέσμου συζήτησης δίπλα --> |[Στόχοι μαθήματος](https://github.com/courses-ionio/help/discussions/861) / [Η ομάδα μου](https://github.com/OMADA12) | |
 | 2 | Άσκηση γραμμής εντολών (linux install) |Επιτυχής εγκατάσταση Linux Arch [Video Link](https://asciinema.org/a/534376) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 |[1o Αρχείο md](https://github.com/Gkirikos/Helpful/blob/main/apollo-guidance-computer.md) /[2o Αρχείο md](https://github.com/Gkirikos/Helpful/blob/main/color-sensor.md) / [Εικόνα 1](https://github.com/Gkirikos/Helpful/blob/main/apollo-guidance-computer.jpg) /[Εικόνα 1 thumb](https://github.com/Gkirikos/Helpful/blob/main/apollo-guidance-computer-thumb.png) / [Εικόνα 2](https://github.com/Gkirikos/Helpful/blob/main/color-sensor.jpg) / [Εικόνα 2 thumb](https://github.com/Gkirikos/Helpful/blob/main/color-sensor-thumb.png) | |
-| 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
+| 4 | Άσκηση γραμμής εντολών (warm up cli) | [4o Παραδοτέο](https://github.com/Gkirikos/hci/edit/2021112/projects/2021112/README.md#4o-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF-warm-ups-command-line-interface) | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | [5o Παραδοτέο](https://github.com/Gkirikos/hci/blob/2021112/projects/2021112/README.md#5o-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | |
 | 6 | Κατασκευή του βιβλίου Α |[6ο Παραδοτέο](https://github.com/Gkirikos/hci/blob/2021112/projects/2021112/README.md#6%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
@@ -97,7 +97,26 @@ AM: inf2021112
 
 # 4o Παραδοτέο: Warm Ups Command Line Interface
 
-<p> </p>
+<p>Για το τέταρτο παραδοτέο, έτρεξα κάποια commands στο command line των arch linux, και τα κατέγραψα χρησιμοποιώντας το asciinema. Πιο συγκεκριμένα, έτρεξα commands για την επίγνωση του καιρού, και άλλο ένα command το οποιο xrhsimpoiei sympol art για να δημιουργήσει μια αγελάδα που λέει ο,τι επιλέξουμε.<br>
+Παρακάτω, υπάρχουν τα link των βίντεο από το asciinema.</p>
+
+### Link των Βίντεο του asciinema:
+
+<ul>
+  <li><a href="https://asciinema.org/a/PY1WsMhiEYtRyw4RkFeKcaxny">Βίντεο με έλεγχο καιρού</a></li>
+  <li><a href="https://asciinema.org/a/8FGtOT3UwrbK8Qa9ZJl8XsjT8">Βίντεο με αγελάδα από symbol art</a></li>
+</ul>
+
+### Εικόνες από asciinema
+
+##### Έλεγχος καιρού:
+
+![weather](https://user-images.githubusercontent.com/89204449/202720295-c0be59f2-8f4b-4722-bdeb-1f828e1a9336.png)
+
+#### Symbol art cow saying "Human Computer interactions"
+
+![cow](https://user-images.githubusercontent.com/89204449/202720538-5cb6df28-24d7-4c28-8fb8-fb5b8bee5ade.png)
+
 
 # 5o Παραδοτέο:
 
