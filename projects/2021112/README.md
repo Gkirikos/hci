@@ -158,10 +158,10 @@ AM: inf2021112
 ### Link έκτου παραδοτέου:
 
 <ul>
-  <li><a href="">Link του .lua αρχείου μου (φίλτρο)</a></li>
-  <li><a href="">Link του βιβλίου (book.pdf)</a></li>
-  <li><a href="">Link του md αρχείου με την παράγραφό μου</a></li>
-  <li><a href="">Link του screenshot μου (με την παράγραφό μου από το book.pdf)</a></li>
+  <li><a href="https://github.com/Gkirikos/Helpful/blob/main/book/MyFilter.lua">Link του .lua αρχείου μου (φίλτρο)</a></li>
+  <li><a href="https://github.com/Gkirikos/Helpful/blob/main/book/book.pdf">Link του βιβλίου (book.pdf)</a></li>
+  <li><a href="https://github.com/Gkirikos/Helpful/blob/main/book/virtual-basic.md">Link του md αρχείου με την παράγραφό μου</a></li>
+  <li><a href="https://github.com/Gkirikos/Helpful/blob/main/book/keimeno.png">Link του screenshot μου (με την παράγραφό μου από το book.pdf)</a></li>
 </ul>
 
 
