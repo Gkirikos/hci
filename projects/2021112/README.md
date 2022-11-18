@@ -20,7 +20,7 @@
 | 3 | Συμμετοχικό περιεχόμενο A1 |[1o Αρχείο md](https://github.com/Gkirikos/Helpful/blob/main/apollo-guidance-computer.md) /[2o Αρχείο md](https://github.com/Gkirikos/Helpful/blob/main/color-sensor.md) / [Εικόνα 1](https://github.com/Gkirikos/Helpful/blob/main/apollo-guidance-computer.jpg) /[Εικόνα 1 thumb](https://github.com/Gkirikos/Helpful/blob/main/apollo-guidance-computer-thumb.png) / [Εικόνα 2](https://github.com/Gkirikos/Helpful/blob/main/color-sensor.jpg) / [Εικόνα 2 thumb](https://github.com/Gkirikos/Helpful/blob/main/color-sensor-thumb.png) | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | [5o Παραδοτέο](https://github.com/Gkirikos/hci/blob/2021112/projects/2021112/README.md#5o-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | |
-| 6 | Κατασκευή του βιβλίου Α | | |
+| 6 | Κατασκευή του βιβλίου Α |[6ο Παραδοτέο](https://github.com/Gkirikos/hci/blob/2021112/projects/2021112/README.md#6%CE%BF-%CF%80%CE%B1%CF%81%CE%B1%CE%B4%CE%BF%CF%84%CE%AD%CE%BF) | |
 | 7 | Συμμετοχικό περιεχόμενο B1 | | |
 | 8 | Άσκηση γραμμής εντολών | | |
 | 9 | Συμμετοχικό περιεχόμενο B2 | | |
