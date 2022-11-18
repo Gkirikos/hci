@@ -4,7 +4,7 @@
 Πλατφόρμα| Όνομα | Επώνυμο | Username | AM | Πανεπιστημιακό email 
   ---------|-----|-----|-------|---------|----
  Github | Γεώργιος | Κυρίκος | Gkirikos | inf2021112 | inf2021112@ionio.gr |-     
- Edpuzzle |  |  | inf2021112 | inf2021112 | inf2021112@ionio.gr |-       
+ <!-- Edpuzzle |  |  | inf2021112 | inf2021112 | inf2021112@ionio.gr |-  -->     
 
 <p><strong>Όνομα ομάδας</strong>: OMADA12
 </p>
